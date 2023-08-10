@@ -1,6 +1,6 @@
 <h1>Página de login e registro</h2>
 <br>
-https://pagina-de-cadastro-e-login.vercel.app/#
+<a href="https://pagina-de-cadastro-e-login.vercel.app/#">Acessar a pagina</a>
 <br>
 <h2>Ao clicar em login aparece a parte de logar, ao clicar em Cadastrar-se vai para a pagina de registro. </h1>
 <br>
